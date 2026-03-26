@@ -2,6 +2,9 @@
 
 A Twitch chat bot that displays real-time League of Legends summoner statistics.
 
+## Live Demo
+This bot runs live on: **[twitch.tv/freshnokapo](https://twitch.tv/freshnokapo)**
+
 ## Features
 - 📊 Automatically posts summoner level and rank every 30 seconds
 - 💬 Responds to `!stats` command for on-demand stats
@@ -29,4 +32,4 @@ A Twitch chat bot that displays real-time League of Legends summoner statistics.
 
 ### Prerequisites
 ```bash
-pip install twitchio requests
+pip install -r requirements.txt
